@@ -1,4 +1,4 @@
-/*
+
 DROP DATABASE IF EXISTS Clinica_dental; 
 CREATE DATABASE IF NOT EXISTS Clinica_dental;
 use Clinica_dental;
@@ -113,7 +113,7 @@ INSERT INTO especialidad VALUES (0210, 'Estomatología', 2105);
 INSERT INTO especialidad VALUES (0211, 'ATM', 2106);
 INSERT INTO especialidad VALUES (0212, 'Fisurados', 2106);
 
-*/
+
 
 select * from especialidad;
 
@@ -124,13 +124,13 @@ join departamento d on d.codigo = s.coddpto
 select * from empleado
 order by condlab;
 
-/*
+
 UPDATE empleado
 SET codDpto = 1007
 WHERE condlab = 'Monotributista';*/
 
 
-/*
+
 INSERT INTO coordinador VALUES (22601461, 2101);
 INSERT INTO coordinador VALUES (29883978, 2102);
 INSERT INTO coordinador VALUES (26774570, 2103);
@@ -149,7 +149,7 @@ INSERT INTO director VALUES (39296359, 1005);
 INSERT INTO director VALUES (32166157, 1006);
 INSERT INTO director VALUES (43623465, 1007);
 
-*/
+
 
 select p.dni, em.nombre, e.nombre as especialidad, s.nombre as sector, ec.nombre as coordinador
 from profesional p
@@ -198,3 +198,4 @@ join sector s on e.codsector = s.codigo
 join coordinador c on c.codigosector= s.codigo
 JOIN empleado ec ON c.dni = ec.dni
 where em.nombre like '%Guillermina%';
+
