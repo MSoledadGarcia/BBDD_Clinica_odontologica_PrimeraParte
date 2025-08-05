@@ -51,7 +51,7 @@ Tablas normalizadas con sus relaciones.
 Se utilizó PostgreSQL para la implementación de la base de datos. Se crearon tablas normalizadas con claves primarias y foráneas, y se incorporaron restricciones de integridad referencial.
 
 
-Código SQL completo en Anexo 1.
+Código SQL completo en: <a href="http://Creacion%20de%20Base%20de%20datos.sql">Creacion de base de datos</a>
 
 <img width="710" height="448" alt="image" src="https://github.com/user-attachments/assets/36fcbc80-2563-4ba5-afe9-a4ae07c4bfae" />
 
