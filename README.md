@@ -60,8 +60,8 @@ Código SQL completo en: <a href="https://github.com/MSoledadGarcia/BBDD_Clinica
 ## 7.	 Pruebas de carga de datos y consultas de uso real.
 Se cargaron datos sintéticos de empleados por medio de código creado con Python para las tablas empleado, profesional y cronograma, y datos reales en la tabla departamento, sector, especialidad para realizar la prueba de la base de datos. 
 
-Código Python en <a href="https://github.com/MSoledadGarcia/BBDD_Clinica_odontologica_PrimeraParte/blob/main/Creaci%25C3%25B3n%2520de%2520datos%2520sint%25C3%25A9ticos.py">Datos sint&eacute;ticos</a>
 
+Código Python en: <a href="https://github.com/MSoledadGarcia/BBDD_Clinica_odontologica_PrimeraParte/blob/main/Creaci%C3%B3n%20de%20datos%20sint%C3%A9ticos.py">Datos sint&eacute;ticos</a>
 
 •	¿Cómo se dividen las especialidades por sector y departamento?
 
@@ -78,7 +78,7 @@ Ejemplos de uso de la base de datos para obtener información útil.
 Se utilizó el lenguaje R para el análisis y la realización de gráficos.
 
 
-Código en <a href="https://github.com/MSoledadGarcia/BBDD_Clinica_odontologica_PrimeraParte/blob/main/Gr%25C3%25A1ficos%2520ejemplo.R">An&aacute;lisis de datos</a>
+Código en <a href="https://github.com/MSoledadGarcia/BBDD_Clinica_odontologica_PrimeraParte/blob/main/Gr%C3%A1ficos%20ejemplo.R">An&aacute;lisis de datos</a>
 
 <img width="698" height="448" alt="image" src="https://github.com/user-attachments/assets/7bbb4c0f-020a-4af7-8edc-f95ebdda1c42" />
 
