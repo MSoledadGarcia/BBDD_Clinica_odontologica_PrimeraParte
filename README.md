@@ -40,3 +40,8 @@ Diagrama E-R con entidades como Empleado, Sector, Departamento, Especialidad, Pr
 
 <img width="746" height="725" alt="image" src="https://github.com/user-attachments/assets/8fe66bfb-f63f-445d-814a-aeeff4aa3187" />
 
+#### 2.	Modelo lógico.
+Tablas normalizadas con sus relaciones.
+
+
+
