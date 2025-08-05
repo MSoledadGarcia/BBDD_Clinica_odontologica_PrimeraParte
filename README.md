@@ -51,7 +51,7 @@ Tablas normalizadas con sus relaciones.
 Se utilizó PostgreSQL para la implementación de la base de datos. Se crearon tablas normalizadas con claves primarias y foráneas, y se incorporaron restricciones de integridad referencial.
 
 
-Código SQL completo en: <a href="http://Creacion%20de%20Base%20de%20datos.sql">Creacion de base de datos</a>
+Código SQL completo en: <a href="https://github.com/MSoledadGarcia/BBDD_Clinica_odontologica_PrimeraParte/blob/main/Creacion%20de%20Base%20de%20datos.sql">Base de datos</a>
 
 <img width="710" height="448" alt="image" src="https://github.com/user-attachments/assets/36fcbc80-2563-4ba5-afe9-a4ae07c4bfae" />
 
@@ -60,7 +60,7 @@ Código SQL completo en: <a href="http://Creacion%20de%20Base%20de%20datos.sql">
 ## 7.	 Pruebas de carga de datos y consultas de uso real.
 Se cargaron datos sintéticos de empleados por medio de código creado con Python para las tablas empleado, profesional y cronograma, y datos reales en la tabla departamento, sector, especialidad para realizar la prueba de la base de datos. 
 
-Código Python en Anexo 2.
+Código Python en <a href="https://github.com/MSoledadGarcia/BBDD_Clinica_odontologica_PrimeraParte/blob/main/Creaci%25C3%25B3n%2520de%2520datos%2520sint%25C3%25A9ticos.py">Datos sint&eacute;ticos</a>
 
 
 •	¿Cómo se dividen las especialidades por sector y departamento?
@@ -78,7 +78,7 @@ Ejemplos de uso de la base de datos para obtener información útil.
 Se utilizó el lenguaje R para el análisis y la realización de gráficos.
 
 
-Código en Anexo 3. 
+Código en <a href="https://github.com/MSoledadGarcia/BBDD_Clinica_odontologica_PrimeraParte/blob/main/Gr%25C3%25A1ficos%2520ejemplo.R">An&aacute;lisis de datos</a>
 
 <img width="698" height="448" alt="image" src="https://github.com/user-attachments/assets/7bbb4c0f-020a-4af7-8edc-f95ebdda1c42" />
 
