@@ -38,7 +38,9 @@ Los profesionales tienen diferentes especialidades y cada especialidad tiene sus
 Diagrama E-R con entidades como Empleado, Sector, Departamento, Especialidad, Profesional, y relaciones “trabaja”, “responde”, “supervisa, “coordina”, etc. 
 
 
-<img width="746" height="725" alt="image" src="https://github.com/user-attachments/assets/8fe66bfb-f63f-445d-814a-aeeff4aa3187" />
+<img width="640" height="693" alt="image" src="https://github.com/user-attachments/assets/4d6ef6f3-0a15-461c-adb3-67fa3171bb6f" />
+
+
 
 #### 2.	Modelo lógico.
 Tablas normalizadas con sus relaciones.
